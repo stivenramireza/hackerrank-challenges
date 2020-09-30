@@ -22,7 +22,7 @@ function vowelsAndConsonants(s) {
 }
 
 function main() {
-    const s = 'javascriptloopstopic';
+    const s = 'javascriptloops';
     vowelsAndConsonants(s);
 }
 
