@@ -16,7 +16,6 @@ function getLetter(s) {
             letter = 'D'
             break
         default:
-            console.log('Invalid option')
             break
     }
     return letter;
