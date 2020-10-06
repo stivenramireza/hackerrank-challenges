@@ -12,7 +12,6 @@ function reverseString(s) {
 
 function main() {
     const s = '1234'
-    // const s = 1234
     reverseString(s)
 }
 
