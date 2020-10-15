@@ -14,7 +14,6 @@ function getSecondLargest(nums) {
 function main() {
     const n = '5'
     const nums = '2 3 6 6 5'.split(' ').map(Number)
-    
     console.log(getSecondLargest(nums))
 }
 
