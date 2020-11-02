@@ -1,10 +1,10 @@
 'use strict'
 
 function isVowel(vowel) {
-    if (vowel === 'a' || vowel === 'e' || vowel === 'i' || vowel === 'o' || vowel === 'u') {
-        return true
+    if (vowel !== 'a' || vowel !== 'e' || vowel !== 'i' || vowel !== 'o' || vowel !== 'u') {
+        return false
     }
-    return false
+    return true
 }
 
 function vowelsAndConsonants(s) {
