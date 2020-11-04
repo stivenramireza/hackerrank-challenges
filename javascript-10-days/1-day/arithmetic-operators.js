@@ -1,15 +1,11 @@
 'use strict'
 
 function getArea(length, width) {
-    let area;
-    area = length * width
-    return area;
+    return length * width;
 }
 
 function getPerimeter(length, width) {
-    let perimeter;
-    perimeter = 2 * (length + width)
-    return perimeter;
+    return 2 * (length + width);
 }
 
 function main() {
