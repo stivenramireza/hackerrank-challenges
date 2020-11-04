@@ -8,7 +8,6 @@ function factorial(n) {
 
 function main() {
     const n = 4;
-    
     console.log(factorial(n));
 }
 
